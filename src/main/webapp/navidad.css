@@ -1,0 +1,39 @@
+@charset "UTF-8";
+.portada{
+	background-color: lightblue;
+	margin:0;
+	border:solid black;
+}
+.portada{
+	text-align:center;
+	text-shadow:3px 1px 0px red;
+	color:white;
+	padding:40px;
+	font-size: 8rem;;
+}
+.notnav{
+	padding:30px;
+	background-color: aquamarine;
+	border:solid black;
+	margin:0;
+}
+.botInicio{
+	text-align: center;
+	padding:8px;
+	background-color: yellow;
+	font-size: 2rem;
+	margin-left: 18rem;
+}
+.imagen{
+	float:left;
+	overflow: visible;
+	width:300px;
+	margin-inline-start: 12rem;
+	
+	
+}
+.textoNavidad{
+	float:right;
+	display:flex;
+	margin-inline-end: 12rem;;
+}

@@ -1,0 +1,55 @@
+@charset "UTF-8";
+.encabezado{
+	background-color: lightblue;
+	margin:0;
+	border:solid black;
+}
+.encabezado{
+	text-align:center;
+	text-shadow:3px 1px 0px red;
+	color:white;
+	padding:40px;
+	font-size: 8rem;;
+}
+nav{
+	padding:30px;
+	background-color: aquamarine;
+	border:solid black;
+	margin:0;
+}
+.botInicio{
+	text-align: center;
+	padding:8px;
+	background-color: yellow;
+	font-size: 2rem;
+	margin-left: 18rem;
+}
+.bot2{
+	text-align: center;
+	padding:8px;
+	background-color: yellow;
+	font-size: 2rem;
+	margin-left: 18rem;
+}
+.anuncio{
+	overflow:hidden;
+	float:right;
+	width:300px;
+}
+.noticia1{
+	float:right;
+	overflow:auto;
+	width:500px;
+}
+.noticia2{
+	float:left;
+	overflow:left;
+	width:500px;
+}
+.pie{
+	text-align: center;
+	padding:20px;
+	background-color:grey ;
+	color:white;
+	clear:both;
+}

@@ -1,0 +1,65 @@
+@charset "UTF-8";
+.encabezado1{
+	background-color: lightblue;
+	margin:0;
+	border:solid black;
+}
+.encabezado1{
+	text-align:center;
+	text-shadow:3px 1px 0px red;
+	color:white;
+	padding:40px;
+	font-size: 8rem;;
+}
+nav{
+	padding:30px;
+	background-color: aquamarine;
+	border:solid black;
+	margin:0;
+}
+.botInicio{
+	text-align: center;
+	padding:16px;
+	background-color: yellow;
+	font-size: 2rem;
+	margin-left: 24rem;
+	height:12rem;
+	
+}
+.bot2{
+	text-align: center;
+	padding:8px;
+	background-color: yellow;
+	font-size: 2rem;
+	margin-left: 18rem;
+}
+main{
+	padding:40px;
+	background-color: lightgrey;
+	
+}
+.form{
+	margin-left:12rem;
+  display: block;
+}
+input:hover{
+	color:red;
+	background-color: yellow;
+	
+}
+#telefono{
+	margin-top: 2rem;
+	}
+.piie{
+	text-align: center;
+	clear:both;
+	background-color: grey;
+	padding:20px;
+	color:white;
+	
+}
+
+	
+	
+	
+	
